@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0018-4sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0018-4sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0018-4sum) |
 ## Stack
 |  |
 | ------- |
