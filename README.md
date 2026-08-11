@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0035-search-insert-position) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
