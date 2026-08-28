@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0036-valid-sudoku) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0036-valid-sudoku) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Vaishnavipise04/LeetCode-Daily-Problem/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
